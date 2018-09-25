@@ -7,12 +7,14 @@ At the very start of this project, I haven’t come up with some strong ideas, b
 
 I really like RPG games, so I think it should be a sole/multi players RPG game. It should be made with low poly models so that I can focus on the game mechanisms instead of struggling with drawing and some sort of graphics issues. 
 
-Because I don’t know how to insert images here so… imagine you are seeing the Portal Knights or Minecraft, and that would be what my game will look like. There are interactive environments, including trees, rivers, animals… 
+Because I don’t know how to insert images here so… imagine you are seeing Portal Knights or Minecraft, and that would be what my game looks like. There are interactive environments, including trees, rivers, animals… 
 
-I’m not sure if I should call it an open world game or if it will have quests, but definitely, there will be the main character, monsters, weapon system, and upgrade systems. 
+What I mainly want to accomplish in this project is a well made spell cast/attack system. The character may have a rough model but the attack/spell animation should surprise other people.
 
-It should have a narrative but it couldn’t be very strong since I didn’t plan to tell people a soft/touching story.
+I’m not sure if I should call it an open world game or if it will have quests, but definitely, there will be a main character, monsters, weapon system, and upgrade systems. 
+
+It should have a narrative but it couldn’t be very strong since I don’t plan to tell people a touching story.
 
 So the main thing I’m trying to figure out is the game’s objective. The rest questions are some techniques that I’ve never touched like spells (e.g. fireballs), monsters’ AI and so on.
 
-So, overall my game is a low poly adventurous RPG game with an unclear objective.
+Overall, my game is a low poly adventurous RPG game with an unclear objective. BTW I'm also interested to join anyone's project if you have other creative ideas.
